@@ -19,7 +19,7 @@
     "underscore": "1.8.x",
     "pcm-boilerplate": "0.1.x",
     "audiobuffer": "0.2.x",
-    "av": "0.4.x",
+    "av": "git@github.com:cowboybkit/aurora.js.git",
     "mp3": "0.1.x",
     "flac": "0.3.x",
     "alac": "0.1.x",
